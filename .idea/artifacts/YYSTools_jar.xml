@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YYSTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YYSTools_jar</output-path>
+    <root id="archive" name="YYSTools.jar">
+      <element id="module-output" name="YYSTools" />
+    </root>
+  </artifact>
+</component>
